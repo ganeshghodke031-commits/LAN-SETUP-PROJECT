@@ -113,7 +113,4 @@ The LAN was successfully created and configured in Cisco Packet Tracer. All devi
 📌 Conclusion
 
 This project provided practical knowledge of LAN setup and configuration. It helped in understanding basic networking concepts and communication within a local network environment.
-
-PC3	192.168.1.4	255.255.255.0
-
 All devices were configured in the same network range.
